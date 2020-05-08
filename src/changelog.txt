@@ -1,0 +1,16 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.2.0
+Date: 2020.2.2
+  Changes:
+    - Updated to 0.18
+    - Added thumbnail.png
+    - Added changelog.txt
+  Features:
+    - Added startup setting for character light halo
+    - Added startup setting for vehicle light halo
+
+---------------------------------------------------------------------------------------------------
+Version: 0.1.4
+Date: 2020.1.14
+  Changes:
+    - Now updated and functional for 0.17 (thanks invisus)
