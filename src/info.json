@@ -1,9 +1,9 @@
 {
   "name": "RealisticFlashlight",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "title": "Realistic Flashlight",
   "author": "invisus",
   "description": "More realistic flashlight patterns and some new configuration options",
   "dependencies": ["base"],
-  "factorio_version": "0.18"
+  "factorio_version": "1.0"
 }
