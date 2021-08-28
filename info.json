@@ -4,6 +4,9 @@
   "title": "Realistic Flashlight",
   "author": "invisus",
   "description": "More realistic flashlight patterns and some new configuration options",
-  "dependencies": ["base", "? GirlCharacter"],
+  "dependencies": [
+    "base",
+    "? GirlCharacter"
+  ],
   "factorio_version": "1.1"
 }
