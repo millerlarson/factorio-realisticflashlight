@@ -1,12 +1,13 @@
 {
   "name": "RealisticFlashlight",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "title": "Realistic Flashlight",
   "author": "invisus",
   "description": "More realistic flashlight patterns and some new configuration options",
   "dependencies": [
     "base",
-    "? GirlCharacter"
+    "? GirlCharacter",
+    "? Companion_Drones"
   ],
   "factorio_version": "1.1"
 }
