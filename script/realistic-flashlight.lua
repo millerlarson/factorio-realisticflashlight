@@ -5,7 +5,7 @@ local enable_vehicle_light_halo = settings.startup["rf-enable-vehicle-light-halo
 -- Character
 local character_picture =
   {
-    filename = "__RealisticFlashlight__/lightcone_enhanced.png",
+    filename = "__RealisticFlashlight__/graphics/lightcone_enhanced.png",
     priority = "extra-high",
     flags = {"light"},
     scale = 2,
@@ -46,7 +46,7 @@ end
 -- Vehicles
 local vehicle_picture =
   {
-    filename = "__RealisticFlashlight__/lightcone_enhanced-vehicle.png",
+    filename = "__RealisticFlashlight__/graphics/lightcone_enhanced-vehicle.png",
     priority = "extra-high",
     flags = {"light"},
     scale = 2,
